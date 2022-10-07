@@ -34,3 +34,16 @@ Permutations
 Anagarams
 Input strings
 Two strings w1 and w2
+
+DAY4
+fizzBuzz
+Users
+Current number
+Valid palindrome
+Input strings
+Vowel strings
+Roman integer
+Seasons,day
+Array of integers
+Scramble string
+
