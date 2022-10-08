@@ -47,3 +47,14 @@ Seasons,day,
 Array of integers,
 Scramble string,
 
+DAY5
+Nonspace characters,
+Employee,
+Perfect square,
+YEAH,NAH,
+Traingular array,
+Peak element,
+Longest substring,
+Matrix,
+Shuffle,
+Reverse words
